@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aditya432-aiml/aditya432-aiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello World 👋, I am Aditya Bhagwat
+- I am a Front End Developer,Python Developer and Data Science enthusiast.
+- Currently an AIML undergrad.
+
+## Tech Stack
+
+![image](https://user-images.githubusercontent.com/81558819/194113288-42561749-64d0-4f5c-8a81-e09043976e48.png)
+![image](https://user-images.githubusercontent.com/81558819/194113339-27a65d1b-3288-4933-a0ee-7ee50d855682.png)
+![image](https://user-images.githubusercontent.com/81558819/194113359-c4cd7528-7641-4754-889b-53ccf9d7f4a7.png)
+
+## Find Me On
+
+- [Linkedin](www.linkedin.com/in/aditya-bhagwat-06150620b)
+- [Gmail](adityabhagwat432@gmail.com)
+
+## Github Analytics
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya432-aiml&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya432-aiml&theme=dark&show_icons=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
