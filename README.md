@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Find Me On
 
 - [Linkedin](www.linkedin.com/in/aditya-bhagwat-06150620b)
-- [Gmail](adityabhagwat432@gmail.com)
+- [Gmail]: adityabhagwat432@gmail.com
 
 ## Github Analytics
 
