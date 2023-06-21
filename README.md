@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello World 👋, I am Aditya Bhagwat
-- I am a Front End Developer,Python Developer and Data Science enthusiast.
-- Currently an AIML undergrad.
+I am a skilled Front End Developer with a passion for crafting engaging user experiences. My expertise extends to Python development and I am an avid enthusiast of Data Science. Currently, I am pursuing my undergraduate studies in Artificial Intelligence and Machine Learning (AIML), constantly immersing myself in the ever-evolving world of technology. My goal is to leverage my diverse skill set to create innovative solutions that bridge the gap between cutting-edge technology and user-centric design.
 
 ## Tech Stack
 
