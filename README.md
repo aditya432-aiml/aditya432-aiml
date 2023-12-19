@@ -27,7 +27,7 @@ Final-year Computer Science Engineering student, specializing in AI & ML. Curren
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=fff44f&color=fff44f)
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF&labelColor=7F00FF&color=7F00FF)
 
 
 ## Find Me On
