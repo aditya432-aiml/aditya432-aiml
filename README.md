@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello World 👋, I am Aditya Bhagwat
-👋 Final-year Computer Science Engineering student, specializing in AI & ML. Currently leading AIML projects at GDSC DIEMS since Aug 2023. 🚀 Crafted dynamic websites, boosted engagement by 40%, and optimized user interactions with IBM Watson workflows. 🌱 Engineered a CNN model achieving 99.49% accuracy for crop health assessment. Skilled in Python, Deep Learning, SQL, Data Visualization, Flask, HTML/CSS/JS, Git & GitHub. Passionate about impactful AI/ML solutions. 🔍
+
+Final-year Computer Science Engineering student, specializing in AI & ML. Currently leading AIML projects at GDSC DIEMS since Aug 2023. 🚀 Crafted dynamic websites, boosted engagement by 40%, and optimized user interactions with IBM Watson workflows. 🌱 Engineered a CNN model achieving 99.49% accuracy for crop health assessment. Skilled in Python, Deep Learning, SQL, Data Visualization, Flask, HTML/CSS/JS, Git & GitHub. Passionate about impactful AI/ML solutions. 🔍
 
 ## Tech Stack
 
