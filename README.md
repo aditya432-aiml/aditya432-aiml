@@ -22,6 +22,7 @@ Final-year Computer Science Engineering student, specializing in AI & ML. Curren
 ![pandas](https://user-images.githubusercontent.com/81558819/194113339-27a65d1b-3288-4933-a0ee-7ee50d855682.png)
 ![numpy](https://user-images.githubusercontent.com/81558819/194113359-c4cd7528-7641-4754-889b-53ccf9d7f4a7.png)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-100000?style=for-the-badge&logo=TensorFlow&logoColor=FFA500&labelColor=FFFFFF&color=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-100000?style=for-the-badge&logo=PyTorch&logoColor=ff5349&labelColor=FFFFFF&color=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Jupyter](https://img.shields.io/badge/Jupyter-100000?style=for-the-badge&logo=Jupyter&logoColor=FFA500&labelColor=FFFFFF&color=FFFFFF)
 ![assistant-prod-banner](https://user-images.githubusercontent.com/81558819/200174163-2b628aa4-4dee-47bc-979e-78c3bdec2025.jpg)
