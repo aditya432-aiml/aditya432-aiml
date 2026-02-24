@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 -->
 ### Hello World 👋, I am Aditya Bhagwat
 
-Final-year Computer Science Engineering student, specializing in AI & ML. Currently leading AIML projects at GDSC DIEMS since Aug 2023. 🚀 Crafted dynamic websites, boosted engagement by 40%, and optimized user interactions with IBM Watson workflows. 🌱 Engineered a CNN model achieving 99.49% accuracy for crop health assessment. Skilled in Python, Deep Learning, SQL, Data Visualization, Flask, HTML/CSS/JS, Git & GitHub. Passionate about impactful AI/ML solutions. 🔍
+Transforming complex data challenges into actionable insights through Generative AI and Machine Learning. As a Jr. Data Scientist at Findability Sciences, I specialize in building scalable AI solutions that directly impact business outcomes—from enterprise forecasting systems to intelligent automation and industrial process optimization.
+
+What I Bring:
+- Expertise in Advanced Time Series Analysis / Forecasting, BigQuery, and AWS ML services
+- Currently developing process optimization systems using Machine Learning and Reinforcement Learning to enhance operational efficiency and decision-making
+- Hands-on experience with Generative AI, propensity modeling, and conversational AI
+- Track record of shipping production-ready ML models with 95%+ accuracy
+
+Whether it's building RL-based optimization systems for industrial processes, engineering CNN models for precision agriculture or designing chatbots that improve user experience by 40%, I thrive on solving problems that matter. My approach combines rigorous technical skills with practical business understanding.
+
+Currently seeking roles in AI/ML Engineering and Data Science where innovation meets impact.
 
 ## Tech Stack
 
